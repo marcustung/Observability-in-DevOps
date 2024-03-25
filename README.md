@@ -10,6 +10,7 @@
 - [第 02 天 : Observability in DevOps](https://github.com/marcustung/Observability-in-DevOps/blob/main/02.md)
 - [第 03 天 : Business Continuity](https://github.com/marcustung/Observability-in-DevOps/blob/main/03.md)
 - [第 04 天 : Service Level Agreement](https://github.com/marcustung/Observability-in-DevOps/blob/main/04.md)
+- [第 05 天 : Disaster Recovery](https://github.com/marcustung/Observability-in-DevOps/blob/main/05.md)
 - [第 06 天 : 災難復原計畫 Disaster Recovery Plan](https://github.com/marcustung/Observability-in-DevOps/blob/main/06.md)
 - [第 07 天 : 高可用性與可靠性 High Availability & Reliability](https://github.com/marcustung/Observability-in-DevOps/blob/main/07.md)
 - [第 08 天 : 監控與指標分析 Monitor](https://github.com/marcustung/Observability-in-DevOps/blob/main/08.md)
