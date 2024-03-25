@@ -20,7 +20,7 @@
 - [第 12 天 : 可觀察性的演進史：從控制理論到重新定義](https://github.com/marcustung/Observability-in-DevOps/blob/main/12.md)
 - [第 13 天 : 可觀測性信號(Signals)的進化之旅](https://github.com/marcustung/Observability-in-DevOps/blob/main/13.md)
 - [第 14 天 : 可觀測性管道：解析現代數據收集與分析](https://github.com/marcustung/Observability-in-DevOps/blob/main/14.md)
-- [第 15 天 : 開賽至今的回顧與反思](https://github.com/marcustung/Observability-in-DevOps/blob/main/15.md])
+- [第 15 天 : 開賽至今的回顧與反思](https://github.com/marcustung/Observability-in-DevOps/blob/main/15.md)
 - [第 16 天 : 可觀測性與它的工具小夥伴們](https://github.com/marcustung/Observability-in-DevOps/blob/main/16.md])
 - [第 17 天 : OpenTelemetry : 在收集遙測數據中加上一點新標準](https://github.com/marcustung/Observability-in-DevOps/blob/main/17.md)
 - [第 18 天 : OpenTelemetry : 核心元件大解密 (1/2)](https://github.com/marcustung/Observability-in-DevOps/blob/main/18.md)
