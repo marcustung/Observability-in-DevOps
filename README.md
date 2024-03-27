@@ -37,9 +37,10 @@
 - [第 29 天 : Grafana 事件管理 : 從告警到修復的問題排除流程 (2/2)](https://github.com/marcustung/Observability-in-DevOps/blob/main/29.md)
 - [第 30 天 : 從傳統開發到可觀測性驅動開發 (ODD)](https://github.com/marcustung/Observability-in-DevOps/blob/main/30.md)
 - [第 31 天 : 30 天之後 ?](https://github.com/marcustung/Observability-in-DevOps/blob/main/31.md)
-- [第 1~30 天 電子書下載](https://github.com/marcustung/Observability-in-DevOps/blob/main/Observability101.pdf) 
+
 作者 : Marcus Tung
 
+- [第 1~30 天 電子書下載](https://github.com/marcustung/Observability-in-DevOps/blob/main/Observability101.pdf)
 ## 獲獎紀錄
 [2023 ITHome 鐵人賽 DevOps 組佳作【Observability 101】](https://ithelp.ithome.com.tw/2023ironman/reward)
 
