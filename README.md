@@ -41,9 +41,10 @@
 作者 : Marcus Tung
 
 - [第 1~30 天 電子書下載](https://github.com/marcustung/Observability-in-DevOps/blob/main/Observability101.pdf)
-## 獲獎紀錄
-[2023 iThome 鐵人賽文章](https://ithelp.ithome.com.tw/users/20162577/ironman/6448)
-[2023 ITHome 鐵人賽 DevOps 組佳作【Observability 101】](https://ithelp.ithome.com.tw/2023ironman/reward)
+
+## 2023 iThome 鐵人賽
+- [鐵人賽文章 Observability 101](https://ithelp.ithome.com.tw/users/20162577/ironman/6448) 
+- [鐵人賽 DevOps 組佳作【Observability 101】](https://ithelp.ithome.com.tw/2023ironman/reward)
 
 ## 關於我
 - 部落格 : [m@rcus 的學習筆記](https://marcus116.blogspot.tw/)
