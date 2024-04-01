@@ -47,7 +47,7 @@
 - [鐵人賽 DevOps 組佳作【Observability 101】](https://ithelp.ithome.com.tw/2023ironman/reward)
 
 ## 關於我
-- Linkedin : [MarcusTung)(https://www.linkedin.com/in/marcus-tung-tw/)
+- Linkedin : [MarcusTung](https://www.linkedin.com/in/marcus-tung-tw/)
 - 部落格 : [m@rcus 的學習筆記](https://marcus116.blogspot.tw/)
 - fb 粉絲團 : [m@rcus 的學習筆記](https://www.facebook.com/marcustung.tech)
 - 鐵人檔案 : [Marcus (lumberjack)](https://ithelp.ithome.com.tw/users/20162577/ironman)
