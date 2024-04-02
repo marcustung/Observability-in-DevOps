@@ -43,8 +43,8 @@
 - [第 1~30 天 電子書下載](https://github.com/marcustung/Observability-in-DevOps/blob/main/Observability101.pdf)
 
 ## 2023 iThome 鐵人賽
-- [鐵人賽文章 Observability 101](https://ithelp.ithome.com.tw/users/20162577/ironman/6448) 
-- [鐵人賽 DevOps 組佳作【Observability 101】](https://ithelp.ithome.com.tw/2023ironman/reward)
+- [鐵人賽文章 : Observability 101](https://ithelp.ithome.com.tw/users/20162577/ironman/6448) 
+- [2023 鐵人賽得獎名單](https://ithelp.ithome.com.tw/2023ironman/reward)
 
 ## 關於我
 - Linkedin : [MarcusTung](https://www.linkedin.com/in/marcus-tung-tw/)
